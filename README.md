@@ -38,23 +38,4 @@
   <img src="https://github-profile-trophy.vercel.app?username=Anonymouseer&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-### 🟡 Pac-Man eating my contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anonymouseer/Anonymouseer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anonymouseer/Anonymouseer/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/Anonymouseer/Anonymouseer/output/pacman-contribution-graph.svg" />
-</picture>
-
----
-
-### 🐍 Snake eating my contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anonymouseer/Anonymouseer/output/snake-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anonymouseer/Anonymouseer/output/snake-contribution-graph.svg">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Anonymouseer/Anonymouseer/output/snake-contribution-graph.svg" />
-</picture>
-
-
-###
+#
