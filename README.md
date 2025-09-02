@@ -58,13 +58,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anonymouseer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anonymouseer.Anonymouseer&"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anonymouseer.Anonymouseer&"  />
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Anonymouseer/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Anonymouseer/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Anonymouseer/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Anonymouseer/1" alt="Medium post 2"  />
+  </a>
 </div>
 
 ###
