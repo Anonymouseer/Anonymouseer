@@ -14,7 +14,7 @@
 
 <h4 align="left">🧑‍💻 About Me<br>🔭 I’m currently building: Hotel Management System & University Website<br>🌱 Learning more about: JavaScript, Python, and Databases<br>💡 Interested in: Full Stack Development & Open Source<br>🎯 Goal for 2025: Contribute to bigger open-source projects<br>📫 Reach me at: (add your email or LinkedIn here)</h4>
 
-###
+---
 
 <br clear="both">
 
