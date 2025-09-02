@@ -40,10 +40,21 @@
 
 ###
 
+### 🟡 Pac-Man eating my contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anonymouseer/Anonymouseer/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anonymouseer/Anonymouseer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anonymouseer/Anonymouseer/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/Anonymouseer/Anonymouseer/output/pacman-contribution-graph.svg" />
 </picture>
+
+---
+
+### 🐍 Snake eating my contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anonymouseer/Anonymouseer/output/snake-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anonymouseer/Anonymouseer/output/snake-contribution-graph.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Anonymouseer/Anonymouseer/output/snake-contribution-graph.svg" />
+</picture>
+
 
 ###
