@@ -1,41 +1,110 @@
-# 👋 Hi, I'm Kean (Anonymouseer)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anonymouseer.Anonymouseer&"  />
+</div>
 
-Welcome to my GitHub profile! 🚀  
-I’m passionate about **Web Development, Software Projects, and Learning New Technologies**.  
-Currently exploring **HTML, CSS, and Web Applications**, and working on small projects to sharpen my skills.  
+###
 
----
+<h1 align="center">Hi, I'm Kean (Anonymouseer)</h1>
 
-## 🧑‍💻 About Me
-- 🔭 I’m currently building: **Hotel Management System & University Website**
-- 🌱 Learning more about: **JavaScript, Python, and Databases**
-- 💡 Interested in: **Full Stack Development & Open Source**
-- 🎯 Goal for 2025: Contribute to **bigger open-source projects**
-- 📫 Reach me at: *(add your email or LinkedIn here)*
+###
 
----
+<h4 align="center">Welcome to my GitHub profile! 🚀<br>I’m passionate about Web Development, Software Projects, and Learning New Technologies.<br>Currently exploring HTML, CSS, and Web Applications, and working on small projects to sharpen my skills.</h4>
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS  
-- **Backend (Learning):** PHP, Node.js  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code  
+###
 
----
+<h4 align="left">🧑‍💻 About Me<br>🔭 I’m currently building: Hotel Management System & University Website<br>🌱 Learning more about: JavaScript, Python, and Databases<br>💡 Interested in: Full Stack Development & Open Source<br>🎯 Goal for 2025: Contribute to bigger open-source projects<br>📫 Reach me at: (add your email or LinkedIn here)</h4>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anonymouseer&show_icons=true&theme=radical)
+###
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymouseer&layout=compact&theme=tokyonight)
+<br clear="both">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anonymouseer&color=blue)
+<h3 align="center">𝙁𝙍𝙊𝙉𝙏𝙀𝙉𝘿</h3>
 
----
+###
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
 
----
+###
 
-⭐️ From [Anonymouseer](https://github.com/Anonymouseer)
+<h3 align="center">𝘽𝘼𝘾𝙆𝙀𝙉𝘿 (Learning)</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
+
+###
+
+<h3 align="center">𝘿𝘼𝙏𝘼𝘽𝘼𝙎𝙀</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="center">𝙏𝙊𝙊𝙇𝙎</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">🌐 𝘾𝙊𝙉𝙉𝙀𝘾𝙏 𝙒𝙄𝙏𝙃 𝙈𝙀</h2>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anonymouseer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anonymouseer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Anonymouseer/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Anonymouseer/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Anonymouseer/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Anonymouseer/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Anonymouseer/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Anonymouseer/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
